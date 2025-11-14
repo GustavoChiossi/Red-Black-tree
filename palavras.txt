@@ -1,0 +1,25 @@
+gato Mamífero doméstico da família dos felinos
+cachorro Animal leal e companheiro do ser humano
+elefante Maior mamífero terrestre, possui tromba longa
+tigre Felino selvagem de grande porte com listras
+banana Fruta amarela rica em potássio
+maca Fruta doce, vermelha ou verde, crocante
+laranja Fruta cítrica rica em vitamina C
+uva Fruta pequena usada em vinhos e sucos
+computador Máquina capaz de processar informações automaticamente
+programacao Ato de escrever instruções para computadores
+internet Rede mundial de computadores que conecta bilhões de usuários
+hardware Conjunto de componentes físicos de um computador
+software Conjunto de programas que controlam o hardware
+rio Curso natural de água doce
+oceano Grande massa de água salgada
+montanha Elevação natural do terreno
+deserto Região árida com escassa vegetação
+ilha Porção de terra cercada por água
+mesa Móvel usado para apoiar objetos
+cadeira Assento com encosto para sentar
+cama Móvel usado para dormir
+celular Dispositivo eletrônico portátil usado para comunicação
+garrafa Recipiente usado para armazenar líquidos
+relógio Instrumento utilizado para medir o tempo
+lampada Objeto que emite luz artificial
